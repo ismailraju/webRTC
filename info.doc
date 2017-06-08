@@ -1,0 +1,26 @@
+﻿
+
+
+
+
+
+
+
+The WebRTC API
+It consists of a few main javascript objects −
+RTCPeerConnection
+MediaStream
+RTCDataChannel
+
+
+
+
+
+
+Reference:
+1. https://webrtc.org/
+2. https://www.tutorialspoint.com/webrtc/webrtc_overview.htm
+3. http://caniuse.com/#feat=rtcpeerconnection
+4. https://appr.tc/
+5. https://webrtc.org/start/
+6. 
