@@ -13,6 +13,9 @@ MediaStream
 RTCDataChannel
 
 
+MediaStream API:
+	getUserMedia()
+	
 
 
 
